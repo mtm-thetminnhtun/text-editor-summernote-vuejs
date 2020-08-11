@@ -1,4 +1,5 @@
-# Quill
+# Summernote
 
-- [Github](https://github.com/surmon-china/vue-quill-editor)
-- [Jsfiddle](https://jsfiddle.net/surmon/fpojgkmy/)
+Summernote demo project using vuejs.
+
+- [Summernote](https://summernote.org/)
